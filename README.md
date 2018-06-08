@@ -9,3 +9,4 @@ Rules of Pragmatic Programming:
 - If the names of things describe things, and if it is hard to name something, then that thing defies description and warrants attention.
 - Comments are frequently indicators that the names and organization of the code could use more love.  Comments are a threat to readability because they are easy to neglect and not update when the code changes.
 2. In writing, you must kill all your darlings.  Code will not reciprocate your love.  Personal or emotional investment in a potential solution to a problem is frequently bad news.
+3. Premature Optimization kills.
